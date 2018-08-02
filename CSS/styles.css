@@ -74,9 +74,8 @@ h1 {
 
 .schedule {
     background-color: white;
-    height: 750px;
+    height: 540px;
     overflow: hidden;
-    overflow-x: hidden;
     overflow-y: scroll;
 }
 
